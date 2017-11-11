@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Контакты
 permalink: /contact/
 ---
-We are cool
+Бла бла бла
