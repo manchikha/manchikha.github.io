@@ -2,7 +2,7 @@
 layout: default
 title: Винил
 image_url: /assets/images/tshirts/03.jpg
-type: vinyl
+type: music
 ---
 Футболка MANCHIKHA с самарскими штольнями.
 Со скидкой 20% за 800 р.
