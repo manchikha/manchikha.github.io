@@ -2,7 +2,7 @@
 title: Выпустили запись
 date: 2016-03-18 19:00:00 -0700
 categories: news
-image_url: /assets/images/2016-03-18-volan.jpg
+image_url: /assets/posts/news/2016-03-18-volan.jpg
 type: post
 ---
 Выпустили запись нашего большого друга Ромы из группы Vólan тиражом в 30 пронумерованных кассет.

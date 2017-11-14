@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Винил
-image_url: /assets/images/tshirts/03.jpg
+image_url: /assets/posts/music/01.jpg
 type: music
 ---
 Футболка MANCHIKHA с самарскими штольнями.

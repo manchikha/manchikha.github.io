@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Майка
-image_url: /assets/images/tshirts/02.jpg
+image_url: /assets/posts/clothing/02.jpg
 type: clothing
 ---
 Футболка MANCHIKHA с самарскими штольнями.

@@ -3,7 +3,7 @@ layout: default
 title: Их называли "Низовые горы"
 date: 2016-04-23 19:00:00 -0700
 categories: news
-image_url: /assets/images/2016-04-23-down-mountains.jpg
+image_url: /assets/posts/news/2016-04-23-down-mountains.jpg
 type: post
 ---
 Некоторые старики ещё и сегодня помнят о системе пещер, располагавшихся в горах ниже по течению к западу от Самары.
