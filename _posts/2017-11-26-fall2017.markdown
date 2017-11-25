@@ -2,6 +2,8 @@
 title: Осень 2017
 type: post
 ---
+Еще живы.
+Скоро будет много новостей.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W2uPJE12ZPk" frameborder="0" allowfullscreen></iframe>
 Video: Andrey Barsukov
 Music: Roma Shar
