@@ -1,7 +1,0 @@
----
-title: Винил
-image_url: /assets/posts/music/01.jpg
-type: music
----
-Футболка MANCHIKHA с самарскими штольнями.
-Со скидкой 20% за 800 р.
