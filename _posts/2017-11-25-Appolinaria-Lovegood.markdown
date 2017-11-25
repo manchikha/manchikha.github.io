@@ -1,7 +1,7 @@
 ---
 title: Appolinaria Lovegood / Апполинария Любодоброва – Flower Violence (Tape Trackography) 
 image_url: /assets/posts/music/Appolinaria-1.jpg
-type: post
+type: music
 ---
 Appolinaria Lovegood / Апполинария Любодоброва – Flower Violence (Tape Trackography) 
 
