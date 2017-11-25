@@ -3,4 +3,4 @@ layout: page
 title: Контакты
 permalink: /contact/
 ---
-Бла бла бла
+E-mail: manchikha@gmail.com
