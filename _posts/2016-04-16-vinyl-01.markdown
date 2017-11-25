@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Винил
 image_url: /assets/posts/music/01.jpg
 type: music

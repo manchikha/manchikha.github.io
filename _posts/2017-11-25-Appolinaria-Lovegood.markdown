@@ -1,6 +1,5 @@
 ---
 title: Appolinaria Lovegood / Апполинария Любодоброва – Flower Violence (Tape Trackography) 
-date: 2017-11-24 19:00:00 -0700
 image_url: /assets/posts/music/Appolinaria-1.jpg
 type: post
 ---

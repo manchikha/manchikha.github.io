@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Майка
 image_url: /assets/posts/clothing/01.jpg
 type: clothing
