@@ -1,5 +1,5 @@
 ---
-title: Appolinaria Lovegood – Flower Violence (Tape Trackography)
+title: music
 date: 2017-11-25 19:00:00 -0700
 image_url: /assets/posts/music/Appolinaria-1.jpg
 image_url: /assets/posts/music/Appolinaria-2.jpg
