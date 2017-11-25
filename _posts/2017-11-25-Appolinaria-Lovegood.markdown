@@ -3,8 +3,6 @@ title: Appolinaria Lovegood / Апполинария Любодоброва – 
 image_url: /assets/posts/music/Appolinaria-1.jpg
 type: music
 ---
-Appolinaria Lovegood / Апполинария Любодоброва – Flower Violence (Tape Trackography) 
-
 В записи принимали участие: 
 - Кузьма Спесивцев 
 - Полина Хвостова из группы Polly Wants 
