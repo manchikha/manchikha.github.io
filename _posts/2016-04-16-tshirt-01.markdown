@@ -1,7 +1,0 @@
----
-title: Майка
-image_url: /assets/posts/clothing/01.jpg
-type: clothing
----
-Футболка MANCHIKHA с самарскими штольнями.
-Со скидкой 20% за 800 р.
