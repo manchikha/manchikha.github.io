@@ -3,11 +3,10 @@ title: m-01 - WLVS - Человек человеку волк (LP)
 image_url: /assets/posts/music/wlvs.jpg
 type: music
 ---
-WLVS (Samara/Russia) - punk/hardcore
-
-WLVS are Alexander,Kirill & Max. 
-recorded,mixed & mastered by Igor Ovcharenko in Samara in january-march 2015. 
-additional vox by Artem of Io Apreo & Victor of Moro Moro Land / For You.Earth
+<p>WLVS (Samara/Russia) - punk/hardcore </p>
+<p>WLVS are Alexander,Kirill & Max. <br>
+recorded,mixed & mastered by Igor Ovcharenko in Samara in january-march 2015. <br>
+additional vox by Artem of Io Apreo & Victor of Moro Moro Land / For You.Earth</p>
 
 300 копий на черном виниле<br>
 Издано совместно с лейблами:<br>
@@ -15,5 +14,6 @@ additional vox by Artem of Io Apreo & Victor of Moro Moro Land / For You.Earth
 <p>WLVS:<br>
 <a href="https://vk.com/wlvsband">vk.com</a> <br>
 <a href="https://wlvs.bandcamp.com/">bandcamp</a></p>
+
 
 
