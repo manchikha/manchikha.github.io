@@ -4,7 +4,8 @@ image_url: /assets/posts/music/4ᔭ ‎– OkNo.jpg
 type: music
 ---
 <p> 4ᔭ(Samara/Russia) - experimental/abstract/ambient/poetry<br>
-4ᔭ-Ok.No</p>
+4ᔭ-Ok.No <br>
+Sold out</p>
 <p>Limited to 30 handnumbered copies on gray cassettes.</p>
 <a href="https://eibi.bandcamp.com/">bandcamp</a><br>
 <a href="https://soundcloud.com/user-341893404/sets/okno">soundcloud</a>
