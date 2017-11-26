@@ -3,7 +3,6 @@ title: m-05 - Appolinaria Lovegood / Апполинария Любодобров
 image_url: /assets/posts/music/Appolinaria-1.jpg
 type: music
 ---
-<p>Appolinaria Lovegood / Апполинария Любодоброва – Flower Violence (Tape Trackography)</p>
 <p>В записи принимали участие:<br>
 - Кузьма Спесивцев<br>
 - Полина Хвостова из группы Polly Wants<br>
@@ -24,4 +23,6 @@ type: music
 </p>
 <p>Вам лучше не знать, откуда эти цветы.<br>
 Стоимость аудиокассеты 100 рублей. Тираж 40 экземпляров. 10 видов оформления аудиокассеты.
-</p> 
+По вопросу приобретения: manchikha@gmail.com
+</p>
+<p><a href="https://maloslovie.bandcamp.com/">bandcamp</a></p>
