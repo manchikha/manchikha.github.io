@@ -5,7 +5,7 @@ type: music
 ---
 <p>Shar (Moscow/Russia) - ambient/drone</p>
 <p>Shar - Hummus<br>
-Limited to 30 handnumbered copies on gray cassettes.   
+Limited to 30 handnumbered copies on gray cassettes.<br> 
 Sold out
 </p>
 <p><a href="https://aniralfs.bandcamp.com/merch/hummus-limited-edition-cassette">bandcamp</a>
