@@ -1,6 +1,6 @@
 ---
 title: m-01 - WLVS - Человек человеку волк (LP)
-image_url: /assets/posts/music/wlvs.jpg
+image_url: /assets/posts/music/wlvs-2.jpg
 type: music
 ---
 <p>WLVS (Samara/Russia) - punk/hardcore </p>
