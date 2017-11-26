@@ -1,27 +1,27 @@
 ---
-title: Appolinaria Lovegood / Апполинария Любодоброва – Flower Violence (Tape Trackography) 
+title: m-05 - Appolinaria Lovegood / Апполинария Любодоброва – Flower Violence (Tape Trackography) 
 image_url: /assets/posts/music/Appolinaria-1.jpg
 type: music
 ---
-В записи принимали участие: 
-- Кузьма Спесивцев 
-- Полина Хвостова из группы Polly Wants 
-- Игорь Рысев из группы Топограф! Землемер 
-- Игорь Юсупов из группы The Middle Volga Social Club 
-- Кирилл Ильязов из группы deafdeaf 
-- Илья Круглов из проекта Atlantis 
-- Дмитрий Сусин из группы hýaena 
-- Ксения Кунденко из группы Supruga 
-- Даниил Казакевич и Руслан Велкоров из группы Burkewitz 
-- Алексей Ежов из группы Vólan 
-В записи также принял участие домашний кот по кличке "Sawtooth Grin". 
-
-Аудиокассета издана силами следующих лейблов: 
-Малословие 
-Manchikha 
-H.A.F.H. Records 
-Зимнее Море 
-
-Вам лучше не знать, откуда эти цветы. 
-
-Стоимость аудиокассеты 100 рублей. Тираж 40 экземпляров. 10 видов оформления аудиокассеты. 
+<p>Appolinaria Lovegood / Апполинария Любодоброва – Flower Violence (Tape Trackography)</p>
+<p>В записи принимали участие:<br>
+- Кузьма Спесивцев<br>
+- Полина Хвостова из группы Polly Wants<br>
+- Игорь Рысев из группы Топограф! Землемер<br>
+- Игорь Юсупов из группы The Middle Volga Social Club<br>
+- Кирилл Ильязов из группы deafdeaf<br>
+- Илья Круглов из проекта Atlantis<br>
+- Дмитрий Сусин из группы hýaena<br>
+- Ксения Кунденко из группы Supruga<br>
+- Даниил Казакевич и Руслан Велкоров из группы Burkewitz<br>
+- Алексей Ежов из группы Vólan<br>
+В записи также принял участие домашний кот по кличке "Sawtooth Grin". </p>
+<p>Аудиокассета издана силами следующих лейблов:<br>
+- <a href="https://vk.com/wearemaloslovie">Малословие</a><br>
+- Manchikha <br>
+- <a href="https://vk.com/hafhrecords">H.A.F.H. Records</a><br>
+- <a href="https://vk.com/wintersealabel">Зимнее Море</a><br>
+</p>
+<p>Вам лучше не знать, откуда эти цветы.<br>
+Стоимость аудиокассеты 100 рублей. Тираж 40 экземпляров. 10 видов оформления аудиокассеты.
+</p> 
