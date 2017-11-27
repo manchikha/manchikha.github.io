@@ -33,7 +33,9 @@ layout: default
       <div>
         {{ post.content }}
       </div>
-      <img class="post-image" src="{{ post.image_url }}" />
+      {% if post.image_url %}
+        <img class="post-image" src="{{ post.image_url }}" />
+      {% endif %}
     </li>
   {% endfor %}
 </ul>
