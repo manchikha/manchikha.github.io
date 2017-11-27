@@ -12,6 +12,7 @@ layout: default
   }
   .post-image {
     width: 100%;
+    padding: 15px 0;
   }
   .post-header {
     margin: 0;
@@ -33,9 +34,9 @@ layout: default
       <div>
         {{ post.content }}
       </div>
-      {% if post.image_url %}
-        <img class="post-image" src="{{ post.image_url }}" />
-      {% endif %}
+      {% for image_url in post.image_url %}
+        <img class="post-image" src="{{ image_url }}" />
+      {% endfor %}
     </li>
   {% endfor %}
 </ul>

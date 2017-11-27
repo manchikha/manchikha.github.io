@@ -1,6 +1,9 @@
 ---
 title: m-05 - Appolinaria Lovegood / Апполинария Любодоброва – Flower Violence (Tape Trackography) 
-image_url: /assets/posts/music/Appolinaria-1.jpg
+image_url:
+  - /assets/posts/music/Appolinaria-1.jpg
+  - /assets/posts/music/Appolinaria-2.jpg
+  - /assets/posts/music/Appolinaria-3.jpg
 type: music
 ---
 <p>В записи принимали участие:<br>
