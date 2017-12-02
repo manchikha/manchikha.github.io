@@ -2,8 +2,8 @@
 title: Manchikha - Tract 
 image_url:
   - /assets/posts/clothing/tract - 1.jpg
-  - /assets/posts/clothing/tract - 2.jpg
 type: clothing
 ---
 Manchikha - Tract 
-Sizes (S,M,L) SOLD OUT
+Sizes (S,M,L)<br> 
+Sold Out
