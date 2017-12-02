@@ -1,6 +1,10 @@
 ---
 title: m-04 - Offret-S/t (LP)
-image_url: /assets/posts/music/offret.jpg
+image_url:
+  - /assets/posts/music/offret.jpg
+  - /assets/posts/music/offret-1.jpg
+  - /assets/posts/music/offret-2.jpg
+  - /assets/posts/music/offret-3.jpg
 type: music
 ---
 <p>OFFRET (Nizhny Novgorod/Russia)</p>
