@@ -2,8 +2,8 @@
 title: Осень
 type: post
 ---
-Еще живы.
-Скоро будет много новостей.
-Video: Andrey Barsukov
-Music: Roma Shar
+Еще живы.<br>
+Скоро будет много новостей.<br>
+Video: Andrey Barsukov <br>
+Music: Roma Shar <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W2uPJE12ZPk" frameborder="0" allowfullscreen></iframe>
