@@ -4,6 +4,6 @@ image_url:
   - /assets/posts/clothing/tract - 1.jpg
 type: clothing
 ---
-Manchikha - Tract 
-Sizes (S,M,L)<br> 
+Manchikha - Tract <br>
+Sizes: S,M,L <br> 
 Sold Out
