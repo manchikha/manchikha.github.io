@@ -6,5 +6,6 @@ image_url:
   - /assets/posts/clothing/stollen black - 5.jpg
 type: clothing
 ---
-Manchikha - Stollen (53°24'59"N 50°0'21"E)
-Sizes (S,M,L) SOLD OUT
+Manchikha - Stollen (53°24'59"N 50°0'21"E)<br>
+Sizes: S,M,L<br> 
+Sold Out
