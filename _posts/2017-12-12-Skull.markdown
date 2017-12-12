@@ -5,7 +5,7 @@ image_url:
   - /assets/posts/clothing/ (6).jpg
   - /assets/posts/clothing/ (7).jpg
   - /assets/posts/clothing/ (7).jpg
-type: news
+type: post
 ---
 Привет всем. Возвращаемся с новыми вещами.<br> 
 В течении недели опубликую все, что было сделано за осень.<br>
