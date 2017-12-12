@@ -1,7 +1,5 @@
 ---
 title: Manchikha - Skull
-image_url:
-  - /assets/posts/clothing/ (25).jpg
 type: post
 ---
 Привет всем. Возвращаемся с новыми вещами.<br> 
@@ -11,6 +9,7 @@ type: post
 Рисунок - <a href="http://rottenfantom.com/">Rotten Fantom</a><br>
 Фото - <a href="https://vk.com/deomrad">Деомрад</a><br>
 Размеры - S,M,L<br>
+Стоимость - 1000 рублей<br>
 По вопросу приобретения: manchikha@gmail.com<br>
 </p>
 <a href="http://vfl.ru/fotos/4daf298b19785620.html"><img src="//images.vfl.ru/ii/1513110124/4daf298b/19785620_m.jpg" alt="(25)" title="(25)" border="0"></a>
