@@ -1,7 +1,7 @@
 ---
 title: Manchikha - Skull 
 image_url:
-  - /assets/posts/clothing/skull.jpg   - /assets/posts/clothing/skull-1.jpg
+  - /assets/posts/clothing/skull.jpg 
 type: clothing
 ---
 Manchikha - Skull <br>
