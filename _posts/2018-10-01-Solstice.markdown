@@ -1,9 +1,10 @@
 ---
-title: Manchikha -Solstice type: post
+title: Manchikha - Solstice
+type: post
 ---
 <p>
 Новая футболка "Солнцестояние". <br>
-Размеры - S, M, L<br>
+Размеры - S, M, Lю<br>
 Стоимость - 1000 рублей.<br>
 <br>
 </p>
